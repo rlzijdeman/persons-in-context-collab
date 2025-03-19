@@ -5,4 +5,6 @@ The aim of this repository is to communicate about the Persons in Context collab
 
 We ask the community to 'donate' their examples of records that contain person observations. In the first instance, we focus on sources that are more frequently observable in archives (such as the ones mentioned above). Even if you are not yet aware of Persons in Context, we ask you to donate a sample of the type of records (preferably in a formatted text file (such as a .csv). We gather the examples by country (2 letter code) and then by record type.
 
+The overall aim of this endeavour is to communicate across borders and languages on the appearance of persons across the heritage (e.g. via depictions, sound bytes and archives) and social science and humanities domain. The latter in particular with regard to life course reconstructions for inequality research.
+
 You can share the examples with us via mail (data at iisg.nl) or if you know how to we hope you would please submit a pull request. If you have any questions, please hit the '[issue](https://github.com/rlzijdeman/persons-in-context-collab/issues/new/choose)' button and write down your question or comment. 
