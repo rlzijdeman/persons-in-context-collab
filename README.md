@@ -9,7 +9,7 @@ The overall aim of this endeavour is to communicate across borders and languages
 
 You can share the examples with us via mail (data at iisg.nl) or if you know how to we hope you would please submit a pull request. If you have any questions, please hit the '[issue](https://github.com/rlzijdeman/persons-in-context-collab/issues/new/choose)' button and write down your question or comment. What follows are direct links to the example cases for the Netherlands:
 
-#NL
+# Examples (NL):
 - [tax register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/belastingregistratie.ttl)
 - [population register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/bevolkingsregistratie.ttl)
 - [page in book](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/boekpagina.ttl)
@@ -20,7 +20,3 @@ You can share the examples with us via mail (data at iisg.nl) or if you know how
 - [personnel registration](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/personeelsregistratie.ttl)
 - [person reconstruction](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/personreconstruction.ttl)
 - [painting (person observed on)](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/painting/schilderij-doodsbed.ttl)
-
-
-
-
