@@ -1,0 +1,7 @@
+Persons in Context: Towards a European RDF vocabulary to describe person observations?
+
+Already in ancient times, but increasingly at scale in the past 3 centuries,societies have kept records that contain information on persons. Some of these records are designed to record persons or more precisely populations, such as parish records and census records. Other records are designed for very different purposes, but still record observations of persons, such as criminal records or records on (ship's) voyages.
+
+While many efforts have been made to utilize the information in these records, most of these efforts have been done in isolation. On the one hand there is a disciplinary gap between heritage (archives) and humanties (research) where efforts to utilize the information from these records are hardly combined. Also, within both these groups there is growth potential for coordinated efforts to provide data on person obsvervations with more CARE and more FAIRly.
+
+The Resource Description Framework (RDF) is a potential catalyst of enhanced harmonization of person observation. RDF, also referred to as Linked Data, allows for universal communication across the Web. In the Netherlands, the Center for Family History, has utilized this fact to bring a group of ontologists and the heritage and humanities togeter and create a RDF vocabulary called 'Persons in Context' (PiCot). After various iterations, this vocabulary now allows for the description of person observations for a large variety of records that exist in Dutch archives.
