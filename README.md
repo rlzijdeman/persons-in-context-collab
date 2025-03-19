@@ -7,7 +7,7 @@ We ask the community to 'donate' their examples of records that contain person o
 
 The overall aim of this endeavour is to communicate across borders and languages on the appearance of persons across the heritage (e.g. via depictions, sound bytes and archives) and social science and humanities domain. The latter in particular with regard to life course reconstructions for inequality research.
 
-You can share the examples with us via mail (data at iisg.nl) or if you know how to we hope you would please submit a pull request. If you have any questions, please hit the '[issue](https://github.com/rlzijdeman/persons-in-context-collab/issues/new/choose)' button and write down your question or comment. What follows are direct links to the example cases for the Netherlands:
+You can share the examples with us via mail (data at iisg.nl) or if you know how to we hope you would please submit a pull request. If you have any questions, please hit the '[issue](https://github.com/rlzijdeman/persons-in-context-collab/issues/new/choose)' button and write down your question or comment. What follows are direct links to the example cases for the Netherlands as provided by [PICOM](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/tree/main/examples):
 
 # Examples (NL):
 - [tax register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/belastingregistratie.ttl)
