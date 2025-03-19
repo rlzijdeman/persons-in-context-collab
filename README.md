@@ -13,6 +13,7 @@ You can share the examples with us via mail (data at iisg.nl) or if you know how
 - [tax register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/belastingregistratie.ttl)
 - [population register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/bevolkingsregistratie.ttl)
 - [page in book](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/boekpagina.ttl)
+- [register of enslaved](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/extending-pico/slavenregister.ttl)
 - [domestic servant register](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/boekpagina.ttl)
 - [birth record](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/geboorteakte.ttl)
 - [marriage record](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo/blob/main/examples/various-sources/huwelijksakte.ttl)
