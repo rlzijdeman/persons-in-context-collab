@@ -1,7 +1,7 @@
 # Persons in Context Community
 
 > [!TIP]
-> [Online session](https://github.com/rlzijdeman/persons-in-context-community/blob/main/outreach/onlineSession-2025-04-04.md) to discuss and explain examples at Fri Apr 4th, 1400-1530 CEST
+> [Online session](https://github.com/rlzijdeman/persons-in-context-community/blob/main/outreach/onlineSession-2025-04-04.md) to discuss and explain examples Fri Apr 4th, 1400-1530 CEST
 
 
 Thanks to the support of the [Center for Family History](https://cbg.nl), the knowledge of a groups of LOD experts and the Dutch community engaged in archives and research surrounding person observations, a Linked Data vocabulary was created to describe person observations in archives in a way that can be directly used in research. The vocabulary was created by reusing a combination of existing vocabularies, mainly Schema.org. For more information on the vocabulary itself, please see the [public webpage](https://personsincontext.org), the [git repository](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) and the [academic paper](https://doi.org/10.51964/hlcs19312). 
